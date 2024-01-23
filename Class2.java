@@ -14,4 +14,8 @@ public class Class2 {
         // v2.0
     }
 
+    private void f3() {
+        // v3.0
+    }
+
 }
