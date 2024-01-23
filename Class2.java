@@ -1,12 +1,17 @@
 /**
  *
- * @author Your Name
+* @author Eli Mckee
+ * //Changed author name
  */
 
 public class Class2 {
 
     private void f1() {
         // v1.0
+    }
+
+    private void f2() {
+        // v2.0
     }
 
 }
