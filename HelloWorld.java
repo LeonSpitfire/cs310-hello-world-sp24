@@ -21,7 +21,10 @@ public class HelloWorld {
     }
 
     private void f3() {
-        // v3.0
+        // v3.0 Updated hotfix
     }
 
+    private void f4() {
+        // v4.0 
+    }
 }
