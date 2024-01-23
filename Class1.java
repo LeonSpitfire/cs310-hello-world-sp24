@@ -18,5 +18,9 @@ public class Class1 {
         // v3.1
         //Fixed the changes in this.
     }
+
+    private void f4() {
+        // v4.0 
+    }
     
 }
